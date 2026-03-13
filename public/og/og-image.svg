@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7F5F2"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#1F3A5F"/>
+  <path d="M122 450C241 316 322 249 465 199C592 155 773 159 917 225C1009 267 1053 315 1085 362V508H122V450Z" fill="#B08D57" fill-opacity="0.2"/>
+  <text x="122" y="232" fill="#F7F5F2" font-size="30" font-family="Georgia, serif">Escribania Schroder</text>
+  <text x="122" y="320" fill="#F7F5F2" font-size="72" font-family="Georgia, serif">Escrituras, poderes</text>
+  <text x="122" y="396" fill="#F7F5F2" font-size="72" font-family="Georgia, serif">y certificaciones</text>
+  <text x="122" y="470" fill="#D7DEE7" font-size="30" font-family="Arial, sans-serif">Barrio Alberdi, Cordoba</text>
+</svg>
