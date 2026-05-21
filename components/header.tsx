@@ -18,8 +18,8 @@ export function Header() {
               className="brand-logo"
             />
             <span className="brand-copy">
-              <span className="brand-kicker">Desde 1933</span>
-              <span className="brand-name">Escribania Schroder</span>
+              <span className="brand-kicker">Desde 2010</span>
+              <span className="brand-name">Escribania</span>
             </span>
           </span>
         </Link>
